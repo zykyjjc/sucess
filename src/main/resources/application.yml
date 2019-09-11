@@ -1,0 +1,18 @@
+server:
+  port: 8082
+---
+person:
+    name: zyk
+    age: 22
+    birth: 1996/12/19
+    maps:
+      k1: hello
+      k2: world
+    lists:
+      - z
+      - y
+      - k
+    dog:
+      name: pp
+      age: 10
+
